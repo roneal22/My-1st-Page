@@ -7,16 +7,24 @@
   <h1>About Me:</h1>
   <p>
     My name is Rose
-  <br>
-    I'm majoring in Human Factors Engineering with a concentration in Biomedical Engineering
-  <br>
-    My IP addresses: 
-  <br> 
-      Public: 130.44.144.158
-  <br>
-      WiFi: 192.168.4.219
-  <br>
-    I grew up in San Francisco, CA. I went to a boarding high school in Ojai, CA, so I grew up a little bit there, too.
-  <
+    <br>
+      I'm majoring in Human Factors Engineering with a concentration in Biomedical Engineering
+    <br>
+      My IP addresses: 
+    <br> 
+        Public: 130.44.144.158
+    <br>
+        WiFi: 192.168.4.219
+    <br>
+      I grew up in San Francisco, CA. I went to a boarding high school in Ojai, CA, so I grew up a little bit there, too.
+    <br>
+      Something no one would expect about me: I was taught math and history in Spanish until the 9th grade. 
+    <br>
+    <p>
+      One of my favorite places:
+      <br>
+        <img src='meditation_mount.JPG' width = "420" height ="310">
+    </p>
+  </p>>
 </body>
 </html>
