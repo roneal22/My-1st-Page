@@ -1,0 +1,73 @@
+<?xml-stylesheet href="Songlist.css"?>
+
+<SONG_LIST>
+	<SONG>
+	  	<TITLE>Have You Ever Seen The Rain</TITLE>
+		<ARTIST>Creedence Clearwater Revival</ARTIST>
+		<GENRE>Rock</GENRE>
+		<YEAR>1970</YEAR>
+	</SONG>
+
+	<SONG>
+	  	<TITLE>Rainy Day Man</TITLE>
+		<ARTIST>Bonnie Raitt</ARTIST>
+		<GENRE>Soul</GENRE>
+		<YEAR>1974</YEAR>
+	</SONG>
+
+	<SONG>
+	  	<TITLE>I Wish It Would Rain</TITLE>
+		<ARTIST>The Temptations</ARTIST>
+		<GENRE>Soul Blues</GENRE>
+		<YEAR>1967</YEAR>
+	</SONG>
+
+	<SONG>
+	  	<TITLE>No Rain</TITLE>
+		<ARTIST>Blind Melon</ARTIST>
+		<GENRE>Alt Rock</GENRE>
+		<YEAR>1993</YEAR>
+	</SONG>
+
+	<SONG>
+	  	<TITLE>Fire and Rain</TITLE>
+		<ARTIST>James Taylor</ARTIST>
+		<GENRE>Folk Rock</GENRE>
+		<YEAR>1970</YEAR>
+	</SONG>
+
+	<SONG>
+	  	<TITLE>Purple Rain</TITLE>
+		<ARTIST>Prince</ARTIST>
+		<GENRE>Pop Rock</GENRE>
+		<YEAR>1984</YEAR>
+	</SONG>
+
+	<SONG>
+	  	<TITLE>Rain On Me</TITLE>
+		<ARTIST>Lady Gaga and Ariana Grande</ARTIST>
+		<GENRE>Pop</GENRE>
+		<YEAR>2020</YEAR>
+	</SONG>
+
+	<SONG>
+	  	<TITLE>Set Fire to the Rain</TITLE>
+		<ARTIST>Adele</ARTIST>
+		<GENRE>Pop</GENRE>
+		<YEAR>2011</YEAR>
+	</SONG>
+
+	<SONG>
+	  	<TITLE>The Rain SONG</TITLE>
+		<ARTIST>Led Zeppelin</ARTIST>
+		<GENRE>Rock</GENRE>
+		<YEAR>1973</YEAR>
+	</SONG>
+
+	<SONG>
+	  	<TITLE>It's Raining Men</TITLE>
+		<ARTIST>The Weather Girls</ARTIST>
+		<GENRE>Post-Disco</GENRE>
+		<YEAR>1982</YEAR>
+	</SONG>
+</SONG_LIST>
