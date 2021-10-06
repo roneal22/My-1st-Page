@@ -1,0 +1,21 @@
+SONG_LIST {
+	background-color: #5a94f4;
+	width: 100%;
+	font-family: sans-serif;
+}
+TITLE {
+	display: block;
+	text-align: center;
+	border: 3px solid #365892;
+	font-size: large;
+	font-weight: bold;
+}
+ARTIST {
+	display: block;
+	text-align: center;
+}
+GENRE, YEAR {
+	display: block;
+	text-align: center;
+	font-size: small;
+}
